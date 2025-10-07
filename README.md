@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md Hasan Ali</h1>
-<h3 align="center">An enthusiastic web developer from Bangladesh</h3>
+<h3 align="center">A passionate Full stack developer. I loves crafting modern, functional, and visually stunning web applications. I Always learning, always building — turning ideas into real-world digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasank44&label=Profile%20views&color=0e75b6&style=flat" alt="hasank44" /> </p>
 
